@@ -5,8 +5,8 @@ title: Midva
 
 <div class="post">
 	<h1 class="pageTitle">Midva</h1>
-  <p> Tukaj bo en najin opis</p>
-	<!-- <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
+
+	<img src="{{ '/assets/img/midva.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">Hej. Sva Ana in Primož študenta Biotehnologije in Računalništva. In ker imava letos možnost iskoristiti prosto leto na faksu, sva se odločila, da ne ostaneva doma in delava. Priložnost izkoristila drugače. Če želiš izvedeti kako, spremljaj najih blog.</p>
+	<p></p>
 </div>

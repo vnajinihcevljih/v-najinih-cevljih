@@ -6,8 +6,8 @@ title: Kontakt
 <div id="contact">
   <h1 class="pageTitle">Piši nama</h1>
   <div class="contactContent">
-    <p class="intro">Hvala za obisk najine strani.</p>
-    <p>Vesela bova kakšnega komentarja, vprašanja, predloga ali pohvale. Če nama želiš kaj pisati lahko uporabiš obrazec na desni.</p>
+    <p class="intro">Hvala za obisk najinega bloga.</p>
+    <p>Vesela bova kakšnega komentarja, vprašanja, predloga ali pohvale. Če nama želiš pisati lahko uporabiš obrazec na desni.</p>
 
     <p class="intro">Thanks for a visit.</p>
     <p>If there is something that you want to let us know please use the form on the right. We will be happy to see your response.</p>
