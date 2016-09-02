@@ -11,6 +11,17 @@ Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omniu
 
 {% lightbox /assets/img/touring.jpg --data="appfoundry_image_set" --title="The AppFoundry Logo" --alt="This is our logo" --class="yourclass" %}
 
+<div class="photoset-grid" data-layout="12">
+
+
+
+    <img src="/assets/img/touring.jpg">
+    <img src="/assets/img/touring.jpg">
+    <img src="/assets/img/touring.jpg"> 
+</div>
+
+
+
 Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
 
 Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
