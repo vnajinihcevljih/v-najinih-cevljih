@@ -10,8 +10,10 @@ $('.photoset-grid').photosetGrid({
         // maxHeight:'90%',
         // maxWidth:'90%'});
         $('.photoset-grid a').each(function() {
-            $( this ).attr('data-title', $( this ).find( 'img' ).attr('data-title'));
-            $( this ).attr('data-lightbox', $( this ).find( 'img' ).attr('data-lightbox'));
+            var title = $( this ).find( 'img' ).attr('data-title');
+            var group = $( this ).find( 'img' ).attr('data-lightbox');
+            $( this ).attr('data-title', title == null ? '' : title);
+            $( this ).attr('data-lightbox', group == null ? '' : group);
         });
     }
 });
