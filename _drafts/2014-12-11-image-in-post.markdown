@@ -15,9 +15,9 @@ Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omniu
 
 
 
-    <img src="/assets/img/touring.jpg">
-    <img src="/assets/img/touring.jpg">
-    <img src="/assets/img/touring.jpg"> 
+    <img src="/assets/img/touring.jpg" data-title="aaaa" data-lightbox="gr1">
+    <img src="/assets/img/touring.jpg" data-title="aaaa1" data-lightbox="gr1">
+    <img src="/assets/img/touring.jpg" data-title="aaaa2" data-lightbox="gr1"> 
 </div>
 
 
