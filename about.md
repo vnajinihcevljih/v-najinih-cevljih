@@ -9,26 +9,23 @@ title: Midva
 <p class="intro"><span class="dropcap">N</span>e dobesedno, seveda. Verjetno malo smrdijo/bodo smrdela  po vseh teh prehojenih poteh, tako da ti ne privoščiva tega trpljenja. Boš pa lahko skozi najina razmišljanja in doživljanja potoval z nama, "stopal" v najine čevlje.
 </p>
 
-	<img src="{{ '/assets/img/midva.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Blog je nastal večinoma iz enega samega razloga. V začetku oktobra se namreč odpravljava daleč na drugo stran naše sploščene krogle, v deželo dolgega belega oblaka, kot so jo imenovali prvi naseljenci, v Novo Zelandijo. Ker bi rada v teh osmih mesecih  ohranjala stike s svojimi najdražjimi, predvsem pa jih/vas obveščala o tem, kod se potikava, ter da sva še živa, sva se odločila, da svoje vtise, misli in slike strneva v nekakšne objave, ki vas bodo zasipavale naslednje mesece. Upam, da bova pridna, da bo inernet na voljo, in da bo dogodivščin zvrhan koš, prav tako pa tudi zdravja.
+<img src="{{ '/assets/img/midva.jpg' | prepend: site.baseurl }}" alt=""> 
+	
+Blog je nastal večinoma iz enega samega razloga. V začetku oktobra se namreč odpravljava daleč na drugo stran naše sploščene krogle, v deželo dolgega belega oblaka, kot so jo imenovali prvi naseljenci, v Novo Zelandijo. Ker bi rada v teh osmih mesecih  ohranjala stike s svojimi najdražjimi, predvsem pa jih/vas obveščala o tem, kod se potikava, ter da sva še živa, sva se odločila, da svoje vtise, misli in slike strneva v nekakšne objave, ki vas bodo zasipavale naslednje mesece. Upam, da bova pridna, da bo inernet na voljo, in da bo dogodivščin zvrhan koš, prav tako pa tudi zdravja.
 
 Za tiste, ki boste brali blog, pa naju malo manj poznate, sva Ana in Primož, trenutno še študenta, ki v naslednjem letu koristiva absolventski staž. Po srcu sva velika ljubitelja narave,  potovanj ter "robinzonskega" odkrivanja kotičkov sveta. Zaradi vseh obveznosti, pomanjkanja časa in denarja, sva do sedaj le te odkrivala manj kot bi si želela, zato pa bo naslednje leto/obdobje toliko bolj pestro. Med odkrivanjem sveta tam doli upava, da bova bolje spoznala tudi svoje želje in cilje za prihodnost ter mogoče prišla do kakih novih idej in načrtov. Pred nama je namreč čas, ko kmalu ne bo več študentskih ugodnosti in udobja, ki nama ga ponuja toplo zavetje doma. Izkušnji, ki naju čaka, zato dajava veliko vrednost in težo in srčno upava, da jo bova kar se da izkoristila.
-.</p>
 
-<blockquote>Pa da prideva srečno domov.</blockquote>
-(to je  najbolj pomembno dodati za najine starše :))
+<blockquote>Pa da prideva srečno domov. (to je  najbolj pomembno dodati za najine starše :))</blockquote>
 
-#### Heading 4 Ana & Primož
-
-	<p></p>
+#### Ana & Primož
 
 
-    <h2>Kje sva že bila?</h2>
+<h2>Kje sva že bila?</h2>
 
-    <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-    <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
-    <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-    <div id="mapdiv" style="height: 450px;"></div>
+<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+<div id="mapdiv" style="height: 450px;"></div>
     <script type="text/javascript">
     var map = AmCharts.makeChart("mapdiv",{
     type: "map",
@@ -130,5 +127,4 @@ Za tiste, ki boste brali blog, pa naju malo manj poznate, sva Ana in Primož, tr
     }
     });
     </script>
-
 </div>
