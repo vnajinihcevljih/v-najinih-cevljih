@@ -6,7 +6,7 @@ title: Midva
 <div class="post">
 	<h1 class="pageTitle">V najinih čevljih. Si.</h1>
 
-    <p class="intro"><span class="dropcap">N</span>e dobesedno, seveda. Verjetno malo smrdijo/bodo smrdela  po vseh teh prehojenih poteh, tako da ti ne privoščiva tega trpljenja. Boš pa lahko skozi najina razmišljanja in doživljanja potoval z nama, "stopal" v najine čevlje.</p>
+    <p class="intro"><span class="dropcap">N</span>e dobesedno, seveda. Verjetno malo smrdijo/bodo smrdeli  po vseh teh prehojenih poteh, tako da ti ne privoščiva tega trpljenja. Boš pa lahko skozi najina razmišljanja in doživljanja potoval z nama, "stopal" v najine čevlje.</p>
 
     <p>Blog je nastal večinoma iz enega samega razloga. V začetku oktobra se namreč odpravljava daleč na drugo stran naše sploščene krogle, v deželo dolgega belega oblaka, kot so jo imenovali prvi naseljenci, v Novo Zelandijo. Ker bi rada v teh osmih mesecih  ohranjala stike s svojimi najdražjimi, predvsem pa jih/vas obveščala o tem, kod se potikava, ter da sva še živa, sva se odločila, da svoje vtise, misli in slike strneva v nekakšne objave, ki vas bodo zasipavale naslednje mesece. Upam, da bova pridna, da bo inernet na voljo, in da bo dogodivščin zvrhan koš, prav tako pa tudi zdravja.</p>
 
@@ -16,14 +16,13 @@ title: Midva
 
     <p>Pa da prideva srečno domov. (to je  najbolj pomembno dodati za najine starše :))</p>
 
-    <h5>Ana & Primož</h5>
+    <p style="text-align: right; padding-right: 100px; font-weight: bold;">Ana & Primož</p>
 
     <p>P.S. Hvala vsem, ki naju podpirate. Upava, da ne boste pozabili na naju, da tudi časovna razlika ne bo predstavljala prevelike ovire, da se ne bi vmes kaj "slišali".</p>
 
     <p>(Zdaj pa lahko stopite ven. Iz čevljev seveda! :D )</p>
     
-    <br/><br/><br/>
-
+    <br/><br/>
 
     <h2>Kje sva že bila?</h2>
 
