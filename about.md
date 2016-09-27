@@ -14,12 +14,15 @@ title: Midva
 
     <p>Za tiste, ki boste brali blog, pa naju malo manj poznate, sva Ana in Primož, trenutno še študenta, ki v naslednjem letu koristiva absolventski staž. Po srcu sva velika ljubitelja narave,  potovanj ter "robinzonskega" odkrivanja kotičkov sveta. Zaradi vseh obveznosti, pomanjkanja časa in denarja, sva do sedaj le te odkrivala manj kot bi si želela, zato pa bo naslednje leto/obdobje toliko bolj pestro. Med odkrivanjem sveta tam doli upava, da bova bolje spoznala tudi svoje želje in cilje za prihodnost ter mogoče prišla do kakih novih idej in načrtov. Pred nama je namreč čas, ko kmalu ne bo več študentskih ugodnosti in udobja, ki nama ga ponuja toplo zavetje doma. Izkušnji, ki naju čaka, zato dajava veliko vrednost in težo in srčno upava, da jo bova kar se da izkoristila.</p>
 
-    <h4>Pa da prideva srečno domov. (to je  najbolj pomembno dodati za najine starše :))</h4>
-
-    P.S. Hvala vsem, ki naju podpirate. Upava, da ne boste pozabili na naju, da tudi časovna razlika ne bo predstavljala prevelike ovire, da se ne bi vmes kaj "slišali".
-    (Zdaj pa lahko stopite ven. Iz čevljev seveda! :D )
+    <p>Pa da prideva srečno domov. (to je  najbolj pomembno dodati za najine starše :))</p>
 
     <h5>Ana & Primož</h5>
+
+    <p>P.S. Hvala vsem, ki naju podpirate. Upava, da ne boste pozabili na naju, da tudi časovna razlika ne bo predstavljala prevelike ovire, da se ne bi vmes kaj "slišali".</p>
+
+    <p>(Zdaj pa lahko stopite ven. Iz čevljev seveda! :D )</p>p>
+    
+    <br/><br/><br/>
 
 
     <h2>Kje sva že bila?</h2>
