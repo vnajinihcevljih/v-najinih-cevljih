@@ -8,10 +8,10 @@ title: Midva
 
     <p class="intro"><span class="dropcap">N</span>e dobesedno, seveda. Verjetno malo smrdijo/bodo smrdela  po vseh teh prehojenih poteh, tako da ti ne privoščiva tega trpljenja. Boš pa lahko skozi najina razmišljanja in doživljanja potoval z nama, "stopal" v najine čevlje.</p>
 
-    <img src="{{ '/assets/img/midva.jpg' | prepend: site.baseurl }}" alt=""> 
-	
     <p>Blog je nastal večinoma iz enega samega razloga. V začetku oktobra se namreč odpravljava daleč na drugo stran naše sploščene krogle, v deželo dolgega belega oblaka, kot so jo imenovali prvi naseljenci, v Novo Zelandijo. Ker bi rada v teh osmih mesecih  ohranjala stike s svojimi najdražjimi, predvsem pa jih/vas obveščala o tem, kod se potikava, ter da sva še živa, sva se odločila, da svoje vtise, misli in slike strneva v nekakšne objave, ki vas bodo zasipavale naslednje mesece. Upam, da bova pridna, da bo inernet na voljo, in da bo dogodivščin zvrhan koš, prav tako pa tudi zdravja.</p>
 
+    <img src="{{ '/assets/img/midva.jpg' | prepend: site.baseurl }}" alt=""> 
+	
     <p>Za tiste, ki boste brali blog, pa naju malo manj poznate, sva Ana in Primož, trenutno še študenta, ki v naslednjem letu koristiva absolventski staž. Po srcu sva velika ljubitelja narave,  potovanj ter "robinzonskega" odkrivanja kotičkov sveta. Zaradi vseh obveznosti, pomanjkanja časa in denarja, sva do sedaj le te odkrivala manj kot bi si želela, zato pa bo naslednje leto/obdobje toliko bolj pestro. Med odkrivanjem sveta tam doli upava, da bova bolje spoznala tudi svoje želje in cilje za prihodnost ter mogoče prišla do kakih novih idej in načrtov. Pred nama je namreč čas, ko kmalu ne bo več študentskih ugodnosti in udobja, ki nama ga ponuja toplo zavetje doma. Izkušnji, ki naju čaka, zato dajava veliko vrednost in težo in srčno upava, da jo bova kar se da izkoristila.</p>
 
     <p>Pa da prideva srečno domov. (to je  najbolj pomembno dodati za najine starše :))</p>
@@ -20,7 +20,7 @@ title: Midva
 
     <p>P.S. Hvala vsem, ki naju podpirate. Upava, da ne boste pozabili na naju, da tudi časovna razlika ne bo predstavljala prevelike ovire, da se ne bi vmes kaj "slišali".</p>
 
-    <p>(Zdaj pa lahko stopite ven. Iz čevljev seveda! :D )</p>p>
+    <p>(Zdaj pa lahko stopite ven. Iz čevljev seveda! :D )</p>
     
     <br/><br/><br/>
 
