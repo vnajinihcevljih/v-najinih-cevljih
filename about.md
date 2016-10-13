@@ -117,6 +117,14 @@ title: Midva
             {
                 "id": "US",
                 "showAsSelected": true
+            },
+            {
+                "id": "MY",
+                "showAsSelected": true
+            },
+            {
+                "id": "NZ",
+                "showAsSelected": true
             }
         ]
         },
