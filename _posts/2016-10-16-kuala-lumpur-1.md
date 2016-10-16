@@ -47,12 +47,12 @@ Začne se eno dretje v nerazumljivem jeziku, vmes pa mogoče zaznaš kakšno bes
 Opazujeva naravo skozi okno, sami palmini gozdovi, že malo lepše je vse skupaj kot v mestu. Počasi posije sonček in nevihte je konec. Udobno nameščena v ogromnih sedežih avtobusa skušava malo zaspati, ampak hkrati je bil svet preveč drugačen, tudi za to da bi zamudila kakšno novo vrsto palme, ni bilo vredno zaspati. Predvsem pa, kje je ta Ipoh kamor se peljemo? Bolje, da veva, kaj se dogaja, kot da zamudiva kakšen "change bus". ;)
 
 <div class="photoset-grid" data-layout="323">
-    <img src="/assets/images/02kulalumpur1/01ana.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/02js.JPG" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/03midva.JPG" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/04mesto.JPG" data-title="Pogled na mesto iz avtobusa." data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/04palme.JPG" data-title="Neskočni gozdovi palm." data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/05dzungla.JPG" data-title="Delček tropskega gozda ob poti. Ana se sprašuje, če tu raste kaj gob." data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/06bus.JPG" data-title="Avtobus z velikimi udobnimi sedeži." data-lightbox="gr1">
-    <img src="/assets/images/02kulalumpur1/07midva.JPG" data-title="" data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/01ana-min.jpg" data-title="" data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/02js-min.JPG" data-title="" data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/03midva-min.JPG" data-title="" data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/04mesto-min.JPG" data-title="Pogled na mesto iz avtobusa." data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/04palme-min.JPG" data-title="Neskočni gozdovi palm." data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/05dzungla-min.JPG" data-title="Delček tropskega gozda ob poti. Ana se sprašuje, če tu raste kaj gob." data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/06bus-min.JPG" data-title="Avtobus z velikimi udobnimi sedeži." data-lightbox="gr1">
+    <img src="/assets/images/02kulalumpur1/07midva-min.JPG" data-title="" data-lightbox="gr1">
 </div>
