@@ -938,12 +938,12 @@ dd {
 }
 
 .content {
-    padding-top: 1em
+    padding-top: 1e
 }
 
 .header {
     background-color: #2e8b57;
-    background-image: url("../img/touring.jpg");
+    background-image: url("../img/covernz.jpg");
     background-size: cover;
     background-position: center center;
     color: white;
