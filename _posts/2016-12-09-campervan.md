@@ -3,6 +3,7 @@ layout: post
 title:  "Misija campervan"
 date:   2016-12-09
 published: true
+author: Ana
 ---
 
 <p class="intro"><span class="dropcap">R</span>azdalja od kmetije, kjer sva delala zadnji mesec in en teden, pa do mesta je bila 8 kilometrov, midva pa sva bila brez prevoznega sredstva cel mesec, zato sva bila tako rekoč odrezana od sveta, tudi wifi-ja nisva imela, zgolj mobilne podatke, ki so hitro pošli. Na veliki kmetiji, katero so obkrožali sami pašniki in krave, sva bila torej odvisna od prevozev drugih, tako da sva po hrano v mesto hodila enkrat na teden ali celo več, kdaj pa tudi štopala. Težava je nastala tudi ob prostih dnevih, ko brez avta nimaš kam iti, zato sva bila odločena, da ga čimprej kupiva, ter tako budno spremljala oglase na raznih spletnih straneh.</p>

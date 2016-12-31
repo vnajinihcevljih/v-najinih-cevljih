@@ -3,6 +3,7 @@ layout: post
 title:  "Kuala Lumpur"
 date:   2016-11-02
 published: true
+author: Primož
 ---
 
 <p class="intro"><span class="dropcap">P</span> o vrnitvi iz otoka Pangkor sva si pred letom proti najinemu glavnemu cilju vzela en dan za ogled mesta Kuala Lumpur. Samo mesto je kar zanimivo, posebej zato, ker je tako drugačno od evropskih mest. To je mesto, ki daje vtis bogatega obenem pa popotnik lahko kmalu ugotovi, da temu še zdaleč ni tako. Ne daleč stran od ogromnih stolpnic (le kakšne pol ure hoda), je revnejši del mesta, ki vključuje kitajsko četrt. Tudi sama sva na lastni koži preizkusila bedo tega dela mesta.</p> 

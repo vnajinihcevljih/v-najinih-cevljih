@@ -3,6 +3,7 @@ layout: post
 title:  "Presenečenja poletne vročine "
 date:   2016-10-16
 published: true
+author: Ana
 ---
 
 <p class="intro"><span class="dropcap">K</span>je smo ostali nazadnje? 

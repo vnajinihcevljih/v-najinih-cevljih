@@ -4,6 +4,7 @@ title:  "Zlate plaže turkiznega morja"
 date:   2016-12-31
 published: true
 image:  abeltasmancover1.jpg
+author: Primož
 ---
 
 <p class="intro"><span class="dropcap">T</span>

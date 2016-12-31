@@ -3,6 +3,7 @@ layout: post
 title:  "Vzponi in padci proti jugu"
 date:   2016-12-21
 published: true
+author: Ana
 ---
 
 <p class="intro"><span class="dropcap">P</span>ri prejšnjem zapisu smo ostali na parkirišču od koder nas je organiziran prevoz odpeljal do začetne točke Tongariro Alpine Crossinga, saj pot ni krožna (tako smo hodili proti svojemu avtu). Voznik avtobusa, ki je bil precej v slabem stanju (včasih smo mislili, da bo crknil sredi klanca), nas je nagovoril v maorščini, sledil pa je še opis naše poti in vremenskega stanja (vozniki avtobusov na NZ so  kot nekakšni piloti, ki te obveščajo o vsem na poti, tako da imajo kar mikrofone nastavljene v bližini ust). Vozili smo se po makedamski cesti in srečevali ogromno takšnih busov, kombijev, ki so že pripeljali turiste na pot. Vedela sva, da se nama obeta pravo romanje, s tem mislim na dolge kolone pohodnikov. In res je bilo tako.</p>
