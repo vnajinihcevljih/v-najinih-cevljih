@@ -2,7 +2,7 @@
 layout: post
 title:  "Prvi 'Great Walk' - Routeburn Track"
 date:   2017-03-30
-published: false
+published: true
 author: Ana
 image:  18cover.jpg
 ---
