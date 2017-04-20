@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Najbolj južno kar se da, saj dlje ne gre!"
-date:   2017-04-15
-published: false
+date:   2017-04-20
+published: true
 author: Ana
 image:  22cover.jpg
 ---
