@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Dunedin"
-date:   2017-04-27
-published: false
+title:  "Dunedin in še malo naprej"
+date:   2017-04-30
+published: true
 author: Ana
 ---
 
 <p class="intro"><span class="dropcap">U</span>stavila sva se na javnem wc-ju, da sva si umila zobe in se preoblekla v pižame, šla še zadnjič na WC in skočila nazaj v avto - (najin) dom. Prispela sva v 5. največje mesto na Novi Zelandiji - Dunedin. Bilo je že pozno, vozila sva se po neznanih ulicah in iskala primerno mesto za parkiranje. Mesto se je lesketalo v uličnih lučeh, ki so se vile ob cestah na hribčkih. </p>
 
-Res je bilo lepo, a še lepše bi bilo vedeti, da bova kmalu lahko v miru zaspala, brez skrbi, da naju sredi noči kdo zbudi. Tako je, ko hočeš privarčevati nekaj cekinov in nočeš vsak dan zapravljati za kampe. Ko potuješ več mesecev, si pač ne moreš privoščiti vsak dan plačevati za kampe, kjer včasih ne dobiš ničesar drugega kot fliko zemlje in smrdeč WC. V mestih pa je kampiranje na črno pravzaprav precej preprosto. Predhodno se moraš pripraviti (kar se tiče toalete), nekaj ur pred spanjem ni dobro preveč piti in najti moraš primerno mesto za parkiranje. To ne sme biti pred stanovanjsko hišo, saj nočeš, da te zbudi policija, ker si prestrašil ljudi, ki tam živijo, prav tako ne sme biti območje, kjer se parkira samo podnevi. Ugotovila sva, da je to najbolje storiti na parkirišču pri kakšni javni ustanovi, kjer ponoči parkirajo tudi drugi, saj se tako zliješ z okolico. PO navadi je to bolj v centrih mesta. Na srečo imava zelo nevpadljiv družinski avto, ki ima zatemnjene zadnje šipe, tako da se niti ne vidi, da spiva v avtu. Vedno se zaparkirava ob poznih urah - po deseti uri, zbudiva pa se, ko je zunaj še temno (okrog pol sedmih zjutraj). Prva stvar, ki jo zjutraj storiva pa je, da pogledava, če je za brisalci zataknjen kakšen listek in do sedaj sva si vedno lahko samo oddahnila.
+Res je bilo lepo, a še lepše bi bilo vedeti, da bova kmalu lahko v miru zaspala, brez skrbi, da naju sredi noči kdo zbudi. Tako je, ko hočeš privarčevati nekaj cekinov in nočeš vsak dan zapravljati za kampe. Ko potuješ več mesecev, si pač ne moreš privoščiti vsak dan plačevati za kampe, kjer včasih ne dobiš ničesar drugega kot fliko zemlje in smrdeč WC na štrbunk. V mestih pa je kampiranje na črno pravzaprav precej preprosto. Predhodno se moraš pripraviti (kar se tiče toalete), nekaj ur pred spanjem ni dobro preveč piti in najti moraš primerno mesto za parkiranje. To ne sme biti pred stanovanjsko hišo, saj nočeš, da te zbudi policija, ker si prestrašil ljudi, ki tam živijo, prav tako ne sme biti območje, kjer se parkira samo podnevi. Ugotovila sva, da je to najbolje storiti na parkirišču pri kakšni javni ustanovi, kjer ponoči parkirajo tudi drugi, saj se tako zliješ z okolico. Po navadi je to bolj v centrih mesta. Na srečo imava zelo nevpadljiv družinski avto, ki ima zatemnjene zadnje šipe, tako da se niti ne vidi, da spiva v avtu. Vedno se zaparkirava ob poznih urah - po deseti uri, zbudiva pa se, ko je zunaj še temno (okrog pol sedmih zjutraj). Prva stvar, ki jo zjutraj storiva pa je, da pogledava, če je za brisalci zataknjen kakšen listek in do sedaj sva si vedno lahko samo oddahnila.
 
 Mesto Dunedin se je izkazalo za eno najlepših tukaj. Podobno kot Wellington je postavljen na večih gričkih, center mesta pa se nahaja na ravnini. Hiše imajo tako lep razgled na morje in polotok Otago proti kateremu sva se podala naslednji dan. Mesto je izrazito škotskega značaja, saj se je v času priseljevanja sem naselilo največ Škotov.
 
@@ -17,7 +17,7 @@ Mesto Dunedin se je izkazalo za eno najlepših tukaj. Podobno kot Wellington je 
     <img src="/assets/images/23dunedin/resized_10c.jpg" data-title="Mestna arhitektura v škotskem slogu." data-lightbox="gr1">
 </div><br/>
 
-Takoj po tem, ko sva zajtrkovala in se je končno zdanilo, sva se odpravila na Tunnel Beach Walkway. Zaradi jesenskega časa se je na morju vila gosta megla zaradi katere nisva imela najlepšega razgleda na zelo zanimivo skalo pod nama. Meni izgleda kot kakšno protitelo, Y oblike, ki ima pod sabo prehod skozi katerega buči morje, pelje pa se lahko tudi ladja. Skala je res mogočna in na vrhu le te, se lahko uzreš na okoliške klife. Malo stran od morja je vklesan tudi ozek tunel po katerem je pot imenovana. Ko se spustiš po njem, prideš do morja in lepe obale, ujete med to veliko skalo in sosednje klife. Ker je bil takrat čas useke, sva se lahko po njej sprehodila, šla v jamo, ki jo je izoblikovalo morje ... 
+Takoj po tem, ko sva zajtrkovala in se je končno zdanilo, sva se odpravila na Tunnel Beach Walkway. Zaradi jesenskega časa se je na morju vila gosta megla zaradi katere nisva imela najlepšega razgleda na zelo zanimivo skalo pod nama. Meni izgleda kot kakšno protitelo, Y oblike, ki ima pod sabo prehod skozi katerega buči morje. Skala je res mogočna in na vrhu le te, se lahko uzreš na okoliške klife. Malo stran od morja je vklesan tudi ozek tunel po katerem je pot imenovana. Ko se spustiš po njem, prideš do morja in lepe obale, ujete med to veliko skalo in sosednje klife. Ker je bil takrat čas useke, sva se lahko po njej sprehodila, šla v jamo, ki jo je izoblikovalo morje ... 
 
 <div class="photoset-grid" data-layout="223">
     <img src="/assets/images/23dunedin/resized_01.jpg" data-title="Skala v Y obliki." data-lightbox="gr1">
@@ -41,7 +41,7 @@ Dunedin pa je marsikomu znan po eni ulici, ki je prepoznavna kot najbolj strma u
 
 <blockquote>Četudi na slikah ne izgleda tako zelo strma, vam predlagam, da se po njej povzpnete. Dolga je 350 m, njen naklon pa znaša 35% oziroma 19°.</blockquote> 
 
-Ljudje na tej ulici zelo radi podirajo rekorde. Vsako leto se na njej odvijata dva bolj odmevna dogodka. Prvi je tek atletov po ulici navzgor in navzdol, rekord pa znaša 1:56. Drugi dogodek pa je bolj humanitarne narave. V tovarni čokolade, katero sva obiskala tudi midva, izdelajo posebno serijo čokoladnih kroglic pobarvane z rdečo barvo - Jaffas. Prostovoljci nanje nalepijo zaporedne številke, nato pa vsako kroglico kupi en donator. Vseh 30 000 kroglic, v velikosti golf žogice, na enkrat spustijo po strmi ulici navzdol in prva, ki se zakotali skozi ciljno črto je zmagovalka, njen donator pa tako prejme nagrado. Ves preostali denar pa gre v humanitarne namene. Po ulici sva se zapeljala tudi z avtom in v tistem trenutku se je najina poraba goriva močno povečala. :P
+Ljudje na tej ulici zelo radi podirajo rekorde. Vsako leto se na njej odvijata dva bolj odmevna dogodka. Prvi je tek atletov po ulici navzgor in navzdol. Rekord znaša 1:56. Drugi dogodek pa je bolj humanitarne narave. V tovarni čokolade, katero sva obiskala tudi midva, izdelajo posebno serijo čokoladnih kroglic pobarvane z rdečo barvo - Jaffas. Prostovoljci nanje nalepijo zaporedne številke, nato pa vsako kroglico kupi en donator. Vseh 30 000 kroglic, v velikosti golf žogice, na enkrat spustijo po strmi ulici navzdol in prva, ki se zakotali skozi ciljno črto je zmagovalka, njen donator pa tako prejme nagrado. Ves preostali denar pa gre v humanitarne namene. Po ulici sva se zapeljala tudi z avtom in v tistem trenutku se je najina poraba goriva močno povečala. :P
 
 <div class="photoset-grid" data-layout="3">
     <img src="/assets/images/23dunedin/resized_09.jpg" data-title="Sva rekla, kaj če bi to noč avto parkirala na najbolj strmi ulici na svetu? Bolje da ne, ker bi med spanjem zlezla na zadnjo šipo avta xD. " data-lightbox="gr1">
@@ -56,7 +56,7 @@ Naslednji dan sva se podala na polotok Otago, kamor sva prispela še pred sončn
     <img src="/assets/images/23dunedin/resized_11.jpg" data-title="Sončni vzhod na plaži Sandfly Bay." data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_12.jpg" data-title="" data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_13.jpg" data-title="Utrujeni morski lev se je prišel spočit na obalo." data-lightbox="gr1">
-    <img src="/assets/images/23dunedin/resized_14.jpg" data-title="Ko sva čakala na pingvine, so nama ob zajtrku na obali samo nekaj metrov stran, družbo delali tjulnji, ki se na naju niso nič kaj preveč ozirali. Čist fajn smo se mel tiste dve uri skupaj. ;)" data-lightbox="gr1">
+    <img src="/assets/images/23dunedin/resized_14.jpg" data-title="Ko sva čakala na pingvine, so nama ob zajtrku na obali samo nekaj metrov stran družbo delali tjulnji, ki se na naju niso nič kaj preveč ozirali. Čist fajn smo se mel tiste dve uri skupaj. ;)" data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_15.jpg" data-title="Ko si vzameš čas za opazovanje živalskega sveta, vidiš, kakšna borba za življenje se tam odvija. Ta dva sta tekmovala za ribico, ki jo je ujel prvi, drugi pa mu jo je hotel ukrasti. Naj si ulovi svojo, kajne? Lahko potegnemo vzporednice v našem svetu ..." data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_16.jpg" data-title="Ker pingvinov tisto jutro ni bilo videti, pa je imel Primož za družbo enega malo večjega pingvina. :D " data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_17.jpg" data-title="Pogled na Sandfly Bay." data-lightbox="gr1">
@@ -71,13 +71,13 @@ Vztrajnost pa se običajno vedno poplača. Čeprav sem bila večurnega čakanja 
 
 <div class="photoset-grid" data-layout="2323">
     <img src="/assets/images/23dunedin/resized_22.jpg" data-title="Iz Dunedina sva se peljala naprej proti zadnjemu obalnemu mestu, saj sva nato zavila v notranjost otoka, Oamaru. Vmes sva se ustavila na eni plaži z okroglimi kamni imenovanimi Boulers." data-lightbox="gr1">
-    <img src="/assets/images/23dunedin/resized_29.jpg" data-title="Tudi Oamaru nama je bil zelo všeč, sicer je majhno pristaniško mestece in zato nič kaj turistično, a ima en poseben čar. Pa najbolj huda igrala za otroke - tudi malo večje otroke. :P" data-lightbox="gr1">
+    <img src="/assets/images/23dunedin/resized_29.jpg" data-title="Tudi Oamaru nama je bil zelo všeč, sicer je majhno pristaniško mestece in zato nič kaj turistično, a ima en poseben čar. Pa najbolj huda igrala za otroke imajo - tudi malo večje otroke. :P" data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_30.jpg" data-title="Ulica v kateri je imelo pristanišče svoje skladišče." data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_31.jpg" data-title="Oamaru ima veliko zgradb narejenih v grškem slogu." data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_32.jpg" data-title="Tale znak mi je bil pa smešen. Na cesti lahko zbiješ pingvina, zato moraš biti zelo pozoren. Midva sva pa naštetokrat preživela več ur ob čakanju na njih, pa nikjer nobenega. :D" data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_23.jpg" data-title="No, očitno je eno čakanje obrodilo sadove in to ravno v bližini mesta Oamaru. Mogoče je pa tisti znak tam res z namenom. :)" data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_24.jpg" data-title="Iz opazovalnice nad plažo smo lahko opazovali živalski svet. Če bi pingvini vedeli, da smo v bližini, se ne bi nikoli prikazali, zato so opazovalnice postavljene daleč stran od plaže. Na srečo imamo priprave, ki nam približajo pogled, za naju je bil to moj fotoaparat, skozi katerega sva občudovala ta luštna bitja." data-lightbox="gr1">
-    <img src="/assets/images/23dunedin/resized_25.jpg" data-title="Še en utrujeni morski lev, ki je prišel po hranjenju na obalo." data-lightbox="gr1">
+    <img src="/assets/images/23dunedin/resized_25.jpg" data-title="Še en utrujeni morski lev, ki je prišel po hranjenju na obalo, omagan od borbe za življenje." data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_26.jpg" data-title="Prvi pingvin, ki sva ga zagledala. Ne moreš ostati malodušen ob njihovem ljubkem premikanju po pesku. Zagotovo je bil tole velik highlight vzhodne obale oziroma cele Nove Zelandije." data-lightbox="gr1">
     <img src="/assets/images/23dunedin/resized_28.jpg" data-title="Prvemu se je pridružil še en pingvinček, s katerim sta skupaj zakorakala proti bolj varnemu delu plaže, kjer imajo verjetno svoja gnezda." data-lightbox="gr1">
 </div><br/>
