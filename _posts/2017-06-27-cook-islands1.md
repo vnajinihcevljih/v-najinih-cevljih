@@ -36,7 +36,7 @@ Poletela sva proti majhnemu otoku sredi pacifiškega morja, ki se nahaja ravno n
 
 Otočje je sestavljeno iz petnajstih otokov vulkanskega nastanka med katerimi je najbolj poseljen otok Rarotonga, ki ima edini mednarodno letališče, tja pa sva letela tudi midva. Otočani imajo svojo vlado (čeprav je po otokih poseljenih zgolj okrog 15 000 ljudi), ki pa je pod velikim vplivom Nove Zelandije, kar občutiš skoraj na vsakem koraku. Vsi izdelki v trgovinah so uvoženi iz Nove Zelandije, veliko pravil je novozelandskih, tako da imaš občutek, kot da si še vedno v deželi Kiwijev, le klima in rastje nekako ne pašeta tja. Prebivalci Cookovega otočja imajo tudi novozelandsko državljanstvo, tako da jih veliko živi in dela na Novi Zelandiji, kjer so boljše službe in življenjski standard. Uporabljajo tudi novozelandski dolar, a imajo nekatere svoje, precej zanimive kovance, ki so unovčljivi samo na Cookovem otočju.
 
-<div class="photoset-grid" data-layout="2"> 
+<div class="photoset-grid" data-layout="21"> 
     <img src="/assets/images/27cookislands1/05.jpg" data-title="Pogled na najbolj poseljen in hribvit otok Rarotonga." data-lightbox="gr1">
     <img src="/assets/images/27cookislands1/06.jpg" data-title="Drugi najbolj priljubljen otok je Aitutaki, ki ima menda najlepšo laguno na svetu. Midva se tja žal nisva odpravila, zaradi pomanjkanja časa, pa tudi notranji leti med otoki so izredno dragi." data-lightbox="gr1">
     <img src="/assets/images/27cookislands1/cookset15.jpg" data-title="Kovanci posebnih oblik, ki se uporabljajo na Cookovem otočju." data-lightbox="gr1">
