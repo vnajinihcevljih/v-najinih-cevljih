@@ -9,6 +9,11 @@ author: Ana
 <p class="intro"><span class="dropcap">O</span> Cookovem otočju sem prvič malo več slišala na Novi Zelandiji, saj naj bi od tam prišli Maori, ki so kot prvi naselili takrat še z ljudmi neposeljeno območje. Predstavljala sem si rajske otoke sredi oceana, tople kraje s tropskim rastjem in se spraševala, kaj jih je gnalo na Novo Zelandijo, v hladnejše kraje s štirimi letnimi časi, ki jih niso bili vajeni, v samo (takrat še) divjino. Človeka je v svet vedno gnala želja po raziskovanju neznanih kotičkov sveta, želja po drugih dobrinah, boljšem življenju, le da so včasih potovali z dolgimi lesenimi kanuji na vesla, danes pa se usedemo na letalo in v zelo kratkem času premagujemo na tisoče kilometrov. Želja po pustolovščinah in odkrivanju neznanega pa je ostala v vsakemu izmed nas, le da se ta izraža na različne načine in je različno močno prisotna. 
 </p>
 
+<div class="photoset-grid" data-layout="1"> 
+    <img src="/assets/images/27cookislands1/maori.jpg" data-title="Kanuji s katerimi so Maori prišli na Novo Zelandijo prav iz Cookovega otočja." data-lightbox="gr1">
+</div><br/>
+
+
 Z idejo, da bi tja odpotovala sta naju okužila Slovenca, sokrajana, s katerima sva se spoznala v Christchurchu. Tudi onadva sta že bila na Cookovem otočju in sta nad njimi tako navdušena, da si nisva mogla izbiti nore ideje o tem, da se tja odpraviva tudi midva. Takrat sva bila še na južnem otoku in pred nama je bil še več kot en mesec potovanja po severnem otoku, ogromno načrtov in obiskov sva imela še v planu, prav tako pa tudi prodajo najinega avta, kar ni bil ravno mačji kašelj. Zato sva si rekla, da bo bolje, če dava željo o Cookovem otočju malo na stran in najprej vidiva, kako nama bosta čas in sreča ob strani.
 
 Začela sva intenzivno oglaševati prodajo avta, kaj veliko zanimanja zanj pa ni bilo, saj je bila ravno sezona, ko so vsi prodajali avte in so le ti med backpackarji izredno izgubili na vrednosti. O tem kako je potekala prodaja bom pisala v kakšni drugi objavi, tokrat naj le povem, da sva ga celo zelo uspešno prodala in to dva tedna pred najinim odhodom domov. Bila sva res navdušena, 
