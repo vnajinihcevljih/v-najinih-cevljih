@@ -73,7 +73,7 @@ Dan zatem sva se odločila, da greva k sveti maši. Od drugih sva slišala, da j
 
 Domačini so bili oblečeni v bela oblačila, tudi moški, ženske pa so imele še klobuček z vencem iz rož. Večji del obreda sva bila v vlogi opazovalca, nato pa smo po koncu maše prišli do darovanja, ko so nam "Jezusovi apostoli" v klop prinesli hostijo (kruh, ki je bil košček toasta). 
 
-<blockquote>Midva s Primožem sva ga seveda prvo sekundo dala v usta, nakar ugotoviva, da bi jo morala še naslednjih pet minut držati v roki tako kot ostali.<blockquote>
+<blockquote>Midva s Primožem sva ga seveda prvo sekundo dala v usta, nakar ugotoviva, da bi jo morala še naslednjih pet minut držati v roki tako kot ostali.</blockquote>
 
 Takoj mi je postalo jasno, zakaj me je gospa, ki nama je dala hostijo, malo čudno pogledala. Uuuppsss. No, v drugo, ko smo dobili "štamperle vina" (sladke vode), nama je šlo že bolje in sva neučakana počakala na ostale. Ob koncu maše sta oba duhovnika stala pri izhodu cerkve in vsakemu dala roko ter se zahvalila za obisk maše, hkrati pa naju povabila na druženje ob hrani v njihovem vaškem domu. Kdo bi zavrnil tako mikavno ponudbo. Hrana in pijača sta bili izvrstni, za naju pa je bil to kulinarični vrhunec Cookovega otočja. Vsako nedeljo domačini prinesejo hrano ob kateri se nato družijo in imajo tako skupno kosilo. Na mizi so bili postereženi kruhki z različnimi ribjimi namazi, sadje, sladice ... 
 
@@ -86,7 +86,7 @@ Spoznala sva tudi prijazno Novozelandko, ki se je preselila na Cookovo otočje s
 
 Drugače pa je foto-gradivo super prikaznik vsega zgoraj opisanega, zato se počasi umikam in dajem prostor sliki, ki tako ali tako veliko več pove. Ker pa nisem prepričana, če vam bodo povedale, kako zelo srečna sva bila, čeprav se je najina pustolovščina končevala, kako sproščena, zadovoljna, napolnjena z energijo in lepimi spomini, kako zelo lepo je dišalo morje, kako mi je bilo vseeno za miljon zrnc peska v laseh, kako je bilo fajn zaspat s slano kožo, kako zabavno je bilo gledati Primoža, ki je po pol ure vztrajal z odpiranjem kokosovega oreha (kot taprav dec, ki bo vedno poskrbel za svojo družino) in kako je bilo najlepše zaključiti svetel del dneva z opazovanjem velikih valov, ki so se v daljavi zabijali ob kamnito prepreko, ki je obgrajevala laguno, ob zahajanju sonca, s steklenico piva, čipsom in Primožem ob strani in če vam niso povedale tega, vam to zdaj povem. :)
 
-<div class="photoset-grid" data-layout="21332133213"> 
+<div class="photoset-grid" data-layout="21332133312"> 
     <img src="/assets/images/29cookislands3/12.jpg" data-title="" data-lightbox="gr1">
     <img src="/assets/images/29cookislands3/13.jpg" data-title="" data-lightbox="gr1">
     <img src="/assets/images/29cookislands3/14.jpg" data-title="" data-lightbox="gr1">
