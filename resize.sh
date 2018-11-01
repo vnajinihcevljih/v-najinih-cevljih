@@ -1,7 +1,7 @@
 set -o errexit
 mkdir resized
-for i in $(ls {*.jpg,*.JPG});
+for i in *.jpg;
 do
-    convert -resize x900 -quality 60 $i resized/$i;
-    echo $i;
+	echo $i;
+    convert -resize x900 -quality 60 "$i" "resized/$i";
 done;
