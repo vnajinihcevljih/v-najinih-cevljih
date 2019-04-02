@@ -7,7 +7,7 @@ author: Ana in Primož
 ---
 
 <p class="intro"><span class="dropcap">K</span>
-	Kmalu bo že dve leti od kar sva prišla iz Nove Zelandije in odkar sva nazaj naju je že kar nekaj ljudi vprašalo: "Kakšna pa je hrana na Novi Zelandiji? Kaj oni jejo? Kaj je tam tradicionalno?" 
+	malu bo že dve leti od kar sva prišla iz Nove Zelandije in odkar sva nazaj naju je že kar nekaj ljudi vprašalo: "Kakšna pa je hrana na Novi Zelandiji? Kaj oni jejo? Kaj je tam tradicionalno?" 
 </p>
 
 Video, ki ga objavljava malo v šali ampak brez preveč pretiravanja prestavi kako se Novozelandci prehranjuejo. Hvala **How to DAD** za super video.
