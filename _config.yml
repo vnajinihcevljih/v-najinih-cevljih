@@ -1,7 +1,7 @@
 title: V najinih čevljih
 description: Our blog
 
-url: http://xn--vnajinihevljih-xzb.si/
+url: http://xn--vnajinihevljih-xzb.si
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
