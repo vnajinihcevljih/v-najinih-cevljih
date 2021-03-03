@@ -17,10 +17,10 @@ navigation:
    url: /index.html
  - title: Midva
    url: /about
- # - title: V živo
- #   url: /live
  - title: Piši nama
    url: /contact
+ - title: Naberi si čaj
+   url: https://nabericaj.si
 
 social:
    github: PrimozGodec
