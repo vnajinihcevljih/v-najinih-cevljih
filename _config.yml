@@ -19,8 +19,6 @@ navigation:
    url: /about
  - title: Piši nama
    url: /contact
- - title: Naberi si čaj
-   url: https://nabericaj.si
 
 social:
    github: PrimozGodec
