@@ -2,7 +2,7 @@ title: V najinih čevljih
 description: Our blog
 
 url: https://vnajinihcevljih.github.io/v-najinih-cevljih
-baseurl: ""
+baseurl: /v-najinih-cevljih
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
