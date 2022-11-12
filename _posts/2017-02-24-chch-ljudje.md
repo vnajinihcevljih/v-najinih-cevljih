@@ -7,7 +7,7 @@ author: Ana
 ---
 
 <div class="photoset-grid" data-layout="1">
-    <img src="/assets/images/15christchurch/main.jpg" data-title="Foto: Mark Baker" data-lightbox="gr1">
+    <img src="{{ '/assets/images/15christchurch/main.jpg' | relative_url }}" data-title="Foto: Mark Baker" data-lightbox="gr1">
 </div><br/>
 
 

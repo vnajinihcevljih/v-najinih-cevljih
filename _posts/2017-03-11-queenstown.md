@@ -35,35 +35,35 @@ Včasih celo jaz rečem, da nima smisla izgubljati besed, pa čeprav jih zelo ra
 #Hvaležnasvetuzafotoaparat
 
 <div class="photoset-grid" data-layout="333333333">
-    <img src="/assets/images/16qt/01.jpg" data-title="Djmo si nardit kitke, da ne bo dela z lasmi v hribih, pa da mi bo Primož lahko še tri dni govoru Pika Nogavička. :P" data-lightbox="gr1">
-    <img src="/assets/images/16qt/02.jpg" data-title="Eden izmed vhodov v rudnik, v katerem so rudarji kopali scheelit. Še vedno se vidijo tiri in nekaj opreme, ki leži na tleh. Vhod v rudnik je nevaren, saj se kamenje ruši iz stropa, zato sva vanj samo pokukala." data-lightbox="gr1">
-    <img src="/assets/images/16qt/03.jpg" data-title="Na začetku je bila pot precej položna in prijetna za nošenje težkih nahrbtnikov." data-lightbox="gr1">
-    <img src="/assets/images/16qt/04.jpg" data-title="Spustila sva se v dolino in prečkala reko. Bila je precej deroča in mrzla, tako da sva poiskala najbolj varno varianto, vendar brez sezuvanja čevljev ni šlo." data-lightbox="gr1">
-    <img src="/assets/images/16qt/05.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/16qt/06.jpg" data-title="Ko sva prišla na cilj, sva najprej postavila najin čisto nov šotor, vhod pa obrnila proti razgledu na jezero Wakatipu." data-lightbox="gr1">
-    <img src="/assets/images/16qt/07.jpg" data-title="Če bi se spomnila, da lahko zakuriva ogenj, bi vzela kakšne klobase s sabo, tokrat pa sva se morala zadovoljiti s pečenimi jabolki. :)" data-lightbox="gr1">
-    <img src="/assets/images/16qt/08.jpg" data-title="In sva se zbudila v prvo jutro zelooo mrzle noči (T so bile zagotovo okoli 5 stopinj Celzija, če ne celo manj ...)" data-lightbox="gr1">
-    <img src="/assets/images/16qt/09.jpg" data-title="Koliba v kateri je spal Miroslav verjetno ni bila veliko toplejša." data-lightbox="gr1">
-    <img src="/assets/images/16qt/10.jpg" data-title="Happy feets, nov čudovit dan je pred nama! :D" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/01.jpg' | relative_url }}" data-title="Djmo si nardit kitke, da ne bo dela z lasmi v hribih, pa da mi bo Primož lahko še tri dni govoru Pika Nogavička. :P" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/02.jpg' | relative_url }}" data-title="Eden izmed vhodov v rudnik, v katerem so rudarji kopali scheelit. Še vedno se vidijo tiri in nekaj opreme, ki leži na tleh. Vhod v rudnik je nevaren, saj se kamenje ruši iz stropa, zato sva vanj samo pokukala." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/03.jpg' | relative_url }}" data-title="Na začetku je bila pot precej položna in prijetna za nošenje težkih nahrbtnikov." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/04.jpg' | relative_url }}" data-title="Spustila sva se v dolino in prečkala reko. Bila je precej deroča in mrzla, tako da sva poiskala najbolj varno varianto, vendar brez sezuvanja čevljev ni šlo." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/05.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/06.jpg' | relative_url }}" data-title="Ko sva prišla na cilj, sva najprej postavila najin čisto nov šotor, vhod pa obrnila proti razgledu na jezero Wakatipu." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/07.jpg' | relative_url }}" data-title="Če bi se spomnila, da lahko zakuriva ogenj, bi vzela kakšne klobase s sabo, tokrat pa sva se morala zadovoljiti s pečenimi jabolki. :)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/08.jpg' | relative_url }}" data-title="In sva se zbudila v prvo jutro zelooo mrzle noči (T so bile zagotovo okoli 5 stopinj Celzija, če ne celo manj ...)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/09.jpg' | relative_url }}" data-title="Koliba v kateri je spal Miroslav verjetno ni bila veliko toplejša." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/10.jpg' | relative_url }}" data-title="Happy feets, nov čudovit dan je pred nama! :D" data-lightbox="gr1">
     
-    <img src="/assets/images/16qt/11.jpg" data-title="Na poti do naslednje koče Mcintosh Hut." data-lightbox="gr1">
-    <img src="/assets/images/16qt/12.jpg" data-title="Pogled na jezero iz druge koče. Na sliki lahko vidite krater, ki so ga kopali rudarji, v njem je še en kup opreme, zraven pa še ena od njihovih pločevinastih hišk. Manjša hiška nad njo pa je naš WC." data-lightbox="gr1">
-    <img src="/assets/images/16qt/13.jpg" data-title="Tudi drugi dan so bili na meniju makaroni, tokrat obogateni s tuno in papriko! :)" data-lightbox="gr1">
-    <img src="/assets/images/16qt/14.jpg" data-title="Kasneje sva se vzpela še malo višje od najine koče in se ozrla naokoli. Francozinja, ki je bila edina pohodnica, ki sva jo srečala na poti, je rekla, da je tako lepo, da ne veš kam bi gledal.:)" data-lightbox="gr1">
-    <img src="/assets/images/16qt/15.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/16qt/16.jpg" data-title="Še nekaj gospodinjskih ostankov od rudarjev - konzerve od hrane, ponev ..." data-lightbox="gr1">
-    <img src="/assets/images/16qt/17.jpg" data-title="Primož je bil tako vztrajen, da je prehodil pol hriba, da je našel nekaj suheha grmičevja. Odkrila sva tudi star les od rudarjev in ga nažagala, da je ogenj malce dlje časa gorel." data-lightbox="gr1">
-    <img src="/assets/images/16qt/18.jpg" data-title="Azijski nudli so se tako skuhali na ognju, za sladico pa sva spekla banane z nutelo. Sem že pozabila, kako je to dobro, vonj po dimu pa jih naredi še boljše." data-lightbox="gr1">
-    <img src="/assets/images/16qt/19.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/16qt/20.jpg" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/11.jpg' | relative_url }}" data-title="Na poti do naslednje koče Mcintosh Hut." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/12.jpg' | relative_url }}" data-title="Pogled na jezero iz druge koče. Na sliki lahko vidite krater, ki so ga kopali rudarji, v njem je še en kup opreme, zraven pa še ena od njihovih pločevinastih hišk. Manjša hiška nad njo pa je naš WC." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/13.jpg' | relative_url }}" data-title="Tudi drugi dan so bili na meniju makaroni, tokrat obogateni s tuno in papriko! :)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/14.jpg' | relative_url }}" data-title="Kasneje sva se vzpela še malo višje od najine koče in se ozrla naokoli. Francozinja, ki je bila edina pohodnica, ki sva jo srečala na poti, je rekla, da je tako lepo, da ne veš kam bi gledal.:)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/15.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/16.jpg' | relative_url }}" data-title="Še nekaj gospodinjskih ostankov od rudarjev - konzerve od hrane, ponev ..." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/17.jpg' | relative_url }}" data-title="Primož je bil tako vztrajen, da je prehodil pol hriba, da je našel nekaj suheha grmičevja. Odkrila sva tudi star les od rudarjev in ga nažagala, da je ogenj malce dlje časa gorel." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/18.jpg' | relative_url }}" data-title="Azijski nudli so se tako skuhali na ognju, za sladico pa sva spekla banane z nutelo. Sem že pozabila, kako je to dobro, vonj po dimu pa jih naredi še boljše." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/19.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/20.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
 
-    <img src="/assets/images/16qt/21.jpg" data-title="Ko sem že mislila, da ne bo nič od sončnega zahoda, saj se ga zakritega v oblake skorajda ni videlo. Po nekaj minutah, ko je bilo sonce že za hribi pa se je zgodila čarovnija. Nebo je postajalo čedalje bolj noro in prešlo do magičnega ..." data-lightbox="gr1">
-    <img src="/assets/images/16qt/22.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/16qt/23.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/16qt/24.jpg" data-title="Tokrat sva se zbudila že precej zgodaj, saj naju je čakala 4 urna pot navzdol in še veliko opravkov v mestu (med njimi umivanje po dolgem času brez tuša, pisanje bloga, nakup novih nogavic in ostalih reči ...) " data-lightbox="gr1">
-    <img src="/assets/images/16qt/25.jpg" data-title="Sprva sva bila nad meglo, ki se je vila po celi dolini, kot bi bila v nebesih s sončkom." data-lightbox="gr1">
-    <img src="/assets/images/16qt/26.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/16qt/27.jpg" data-title="Po strmem spustu pa sva prešla na nivo pod meglo, tako da ni bilo več tako lepo kot prej. V mestu se jim sanja ne, kaj je tam gor v hribih! :)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/21.jpg' | relative_url }}" data-title="Ko sem že mislila, da ne bo nič od sončnega zahoda, saj se ga zakritega v oblake skorajda ni videlo. Po nekaj minutah, ko je bilo sonce že za hribi pa se je zgodila čarovnija. Nebo je postajalo čedalje bolj noro in prešlo do magičnega ..." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/22.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/23.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/24.jpg' | relative_url }}" data-title="Tokrat sva se zbudila že precej zgodaj, saj naju je čakala 4 urna pot navzdol in še veliko opravkov v mestu (med njimi umivanje po dolgem času brez tuša, pisanje bloga, nakup novih nogavic in ostalih reči ...) " data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/25.jpg' | relative_url }}" data-title="Sprva sva bila nad meglo, ki se je vila po celi dolini, kot bi bila v nebesih s sončkom." data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/26.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/16qt/27.jpg' | relative_url }}" data-title="Po strmem spustu pa sva prešla na nivo pod meglo, tako da ni bilo več tako lepo kot prej. V mestu se jim sanja ne, kaj je tam gor v hribih! :)" data-lightbox="gr1">
 </div><br/>
 
 

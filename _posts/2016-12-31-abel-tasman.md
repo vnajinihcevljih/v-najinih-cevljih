@@ -49,8 +49,8 @@ Morje je na začetku izgledalo zelo mirno, ko pa smo privesljali ven iz zaliva j
 Veslanje nam je oteževal tudi veter, ki je pihal v nasprotno smer. 
 
 <div class="photoset-grid" data-layout="2">
-    <img src="/assets/images/11abeltasman/k1.jpg" data-title="Še malo pa jo švignemo na morje." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k2.jpg" data-title="Ana je ful uživala." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k1.jpg' | relative_url }}" data-title="Še malo pa jo švignemo na morje." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k2.jpg' | relative_url }}" data-title="Ana je ful uživala." data-lightbox="gr1">
 </div><br/>
 
 Po dobri uri veslanja smo prispeli v zaliv, kjer je bila voda še lepše barve. 
@@ -67,10 +67,10 @@ ki pomagajo pri vseh težavah. To drevo raste vsepovsod po Novi Zelandiji,
 ravno v času božiča pa cveti, tako da pravijo, da je to njihova ideja o belem božiču.
 
 <div class="photoset-grid" data-layout="121">
-    <img src="/assets/images/11abeltasman/k3.jpg" data-title="Kanuka čaj se je res prilegel." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k4.jpg" data-title="Preden smo se odpravili naprej, smo še malo pozirali." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k5.jpg" data-title="Voda v celotnem zalivu res ni globoka, zato se je možno sprehoditi skoraj do sredine zaliva." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k6.jpg" data-title="Še ena panoramska fotografija." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k3.jpg' | relative_url }}" data-title="Kanuka čaj se je res prilegel." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k4.jpg' | relative_url }}" data-title="Preden smo se odpravili naprej, smo še malo pozirali." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k5.jpg' | relative_url }}" data-title="Voda v celotnem zalivu res ni globoka, zato se je možno sprehoditi skoraj do sredine zaliva." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k6.jpg' | relative_url }}" data-title="Še ena panoramska fotografija." data-lightbox="gr1">
 </div><br/>
 
 Ko smo pojedli kosilo, smo se odpravili še malo naprej po zalivu. Na poti smo uspeli videti tudi morskega leva,  
@@ -80,7 +80,7 @@ robu sta navezala ponjavo na vesli in jo dvignila v zrak. Začeli smo jadrati.
 Tako smo prejadrali celotno pot nazaj do Torrent Baya, ki je bil naša izhodiščna točka.
 
 <div class="photoset-grid" data-layout="1">
-    <img src="/assets/images/11abeltasman/k7.jpg" data-title="Za nazaj smo uživali v jadranju." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k7.jpg' | relative_url }}" data-title="Za nazaj smo uživali v jadranju." data-lightbox="gr1">
 </div><br/>
 
 Ker pa dneva še ni bilo konec, sva se odločila, da prehodiva še del poti do plaže imenovane Anchorage. 
@@ -90,11 +90,11 @@ in za razliko od drugih plaž na Novi Zelandiji, je bilo tukaj res možno ostati
 ne samo za nekaj sekund, kot sva to počela ponavadi.
 
 <div class="photoset-grid" data-layout="23">
-    <img src="/assets/images/11abeltasman/k8.jpg" data-title="Še en pogled na morje v Torrent Bayu." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k9.jpg" data-title="Pogled na Anchorage iz višine." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k10.jpg" data-title="Anchorage v vsej svoji lepoti. Anina najljubša plaža." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k11.jpg" data-title="Plavanje je zaras prijalo." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/k12.jpg" data-title="Pogled iz katamarana na poti nazaj." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k8.jpg' | relative_url }}" data-title="Še en pogled na morje v Torrent Bayu." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k9.jpg' | relative_url }}" data-title="Pogled na Anchorage iz višine." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k10.jpg' | relative_url }}" data-title="Anchorage v vsej svoji lepoti. Anina najljubša plaža." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k11.jpg' | relative_url }}" data-title="Plavanje je zaras prijalo." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/k12.jpg' | relative_url }}" data-title="Pogled iz katamarana na poti nazaj." data-lightbox="gr1">
 </div><br/>
 
 ### Greva še malo hodit ...
@@ -111,9 +111,9 @@ Taka pokrajina se je izmenjala večkrat na najini poti, tako da sva lahko hodila
 lep razgled iz malo višjih točk. Ob prihodu v kamp sva se šla ponovno kopat v morje, vendar je bila tokrat voda zaradi včerajšnjega dežja bolj mrzla.
 
 <div class="photoset-grid" data-layout="12">
-    <img src="/assets/images/11abeltasman/w2.jpg" data-title="Abel Tasman ponuja ogromno podobnih razgledov." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/w1.jpg" data-title="Ana se dela, da sem stolp v Pisi." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/w3.jpg" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/w2.jpg' | relative_url }}" data-title="Abel Tasman ponuja ogromno podobnih razgledov." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/w1.jpg' | relative_url }}" data-title="Ana se dela, da sem stolp v Pisi." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/w3.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
 </div><br/>
 
 ### Lepote Cable Baya
@@ -124,13 +124,13 @@ da so sem pripeljali prvi telefonski kabel v Novo Zelandijo iz Sidneya leta 1876
 s čimer se je Nova Zelandija povezala s svetom.
 
 <div class="photoset-grid" data-layout="232">
-    <img src="/assets/images/11abeltasman/cb1.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/cb2.jpg" data-title="Iz Cable Baya sva se povzpela molo višje." data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/cb3.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/cb4.jpg" data-title="Na poti so naju spremljale ovce." data-lightbox="gr1">    
-    <img src="/assets/images/11abeltasman/cb7.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/cb8.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/11abeltasman/cb5.jpg" data-title="Selfi pa more bit." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/cb1.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/cb2.jpg' | relative_url }}" data-title="Iz Cable Baya sva se povzpela molo višje." data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/cb3.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/cb4.jpg' | relative_url }}" data-title="Na poti so naju spremljale ovce." data-lightbox="gr1">    
+    <img src="{{ '/assets/images/11abeltasman/cb7.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/cb8.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/11abeltasman/cb5.jpg' | relative_url }}" data-title="Selfi pa more bit." data-lightbox="gr1">
 </div><br/>
 
 

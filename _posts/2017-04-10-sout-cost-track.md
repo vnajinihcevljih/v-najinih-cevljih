@@ -48,30 +48,30 @@ iz severa države, ki sta prespala v tej koči.
 Zraven koče sva v šotoru prespala in se naslednji dan odpravila nazaj do avta. 
 
 <div class="photoset-grid" data-layout="33333333">
-    <img src="/assets/images/21humpridge/03.jpg" data-title="Jutranji pogled na morje." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/04.jpg" data-title="S hojo sva začela že zgodaj zjutraj, saj je bila do koče še dolga pot." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/01.jpg" data-title="Prvi viseči most, ki sva ga prečkala na najini poti." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/02.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/05.jpg" data-title="Podobnih visečih mostov je bilo na poti veliko." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/07.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/08.jpg" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/03.jpg' | relative_url }}" data-title="Jutranji pogled na morje." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/04.jpg' | relative_url }}" data-title="S hojo sva začela že zgodaj zjutraj, saj je bila do koče še dolga pot." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/01.jpg' | relative_url }}" data-title="Prvi viseči most, ki sva ga prečkala na najini poti." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/02.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/05.jpg' | relative_url }}" data-title="Podobnih visečih mostov je bilo na poti veliko." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/07.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/08.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
 
-    <img src="/assets/images/21humpridge/10.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/12.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/13.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/14.jpg" data-title="Variable oystercatchers - ptice, ki iščejo hrano z brskanjem po pesku." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/15.jpg" data-title="Pot je zavila iz lepe plaže nazaj v gozd. " data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/17.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/18.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/19.jpg" data-title="Drevesa so bolj podobna tistim v džungli." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/10.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/12.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/13.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/14.jpg' | relative_url }}" data-title="Variable oystercatchers - ptice, ki iščejo hrano z brskanjem po pesku." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/15.jpg' | relative_url }}" data-title="Pot je zavila iz lepe plaže nazaj v gozd. " data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/17.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/18.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/19.jpg' | relative_url }}" data-title="Drevesa so bolj podobna tistim v džungli." data-lightbox="gr1">
 
-    <img src="/assets/images/21humpridge/20.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/21.jpg" data-title="Pogled proti plaži, ki je bila nekoč pristanišče. To je bio že na najinem cilju blizu koče." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/22.jpg" data-title="Del pomola, ki je nekoč služil za nalaganje lesa na ladje. Pomole so požgali med drugo svetovno vojno, saj niso želeli tvegati, da bi kateri od nasprotnikov v pacifiški bitki pristal na Novi Zelandiji." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/23.jpg" data-title="Ostanki voza za transport lesa." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/24.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/25.jpg" data-title="Old School Hut - koča poleg katere sva prespala." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/27.jpg" data-title="Zgodaj zjutraj, ko se je zdanilo, sem se odpravil do viadukta, ki je slabih sedem kilometrov naprej od koče. Ta je prvi in manjši, sledijo mu še trije. Preko njih je železnica za spravilo lesa prečkala globoke doline in reke." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/00.jpg" data-title="Že na WC-ju v Tuatapere, ki je najbližji kraj izhodišču, je naslikan eden od viaduktov." data-lightbox="gr1">
-    <img src="/assets/images/21humpridge/26.jpg" data-title="Na poti nazaj sva si kosilo skuhala kar na plaži." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/20.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/21.jpg' | relative_url }}" data-title="Pogled proti plaži, ki je bila nekoč pristanišče. To je bio že na najinem cilju blizu koče." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/22.jpg' | relative_url }}" data-title="Del pomola, ki je nekoč služil za nalaganje lesa na ladje. Pomole so požgali med drugo svetovno vojno, saj niso želeli tvegati, da bi kateri od nasprotnikov v pacifiški bitki pristal na Novi Zelandiji." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/23.jpg' | relative_url }}" data-title="Ostanki voza za transport lesa." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/24.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/25.jpg' | relative_url }}" data-title="Old School Hut - koča poleg katere sva prespala." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/27.jpg' | relative_url }}" data-title="Zgodaj zjutraj, ko se je zdanilo, sem se odpravil do viadukta, ki je slabih sedem kilometrov naprej od koče. Ta je prvi in manjši, sledijo mu še trije. Preko njih je železnica za spravilo lesa prečkala globoke doline in reke." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/00.jpg' | relative_url }}" data-title="Že na WC-ju v Tuatapere, ki je najbližji kraj izhodišču, je naslikan eden od viaduktov." data-lightbox="gr1">
+    <img src="{{ '/assets/images/21humpridge/26.jpg' | relative_url }}" data-title="Na poti nazaj sva si kosilo skuhala kar na plaži." data-lightbox="gr1">
 </div><br/>

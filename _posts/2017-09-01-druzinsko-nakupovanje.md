@@ -37,7 +37,7 @@ Mama pride nakupovat z otrokom in ko si otrok želi česa nadstandardnega, čez 
 Vsak izdelek mu molijo pred nos in sprašujejo, če je ta vredu, otrok pa zdolgočaseno in neodločno vsakic znova reče ne, nič kar je v tej trgovini mi ni všeč (beri, več izbire kot jo je tam v Sloveniji sploh ne dobiš).
 
 <div class="photoset-grid" data-layout="1">
-	<img src="/assets/images/31druzinsko_nakupovanje/2.jpg" data-title="Center mesta v gradnji." data-lightbox="gr1">
+	<img src="{{ '/assets/images/31druzinsko_nakupovanje/2.jpg' | relative_url }}" data-title="Center mesta v gradnji." data-lightbox="gr1">
 </div><br>
 
 ## Dedki in babice

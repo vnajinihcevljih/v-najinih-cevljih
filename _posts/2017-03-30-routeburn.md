@@ -31,36 +31,36 @@ Pri shelterju sva spoznala mladega Francoza, ki je prišel na NZ samo potovat in
 Na najvišjem delu poti se je v popoldanskem soncu bleščalo še eno čudovito jezero, ki je bilo obdano z gorami. Zatem pa sva se spustila še nekoliko nižje, do slapov, kjer so stale naslednje koče s čudovitim razgledom. Najin kamp je bil nekoliko nižje, tja pa sva prispela ob šestih zvečer, kar pomeni, da sva z manjšimi odmori hodila 11 ur. Sam track je dolg sicer 32 km in ni krožen. Midva teh zadnjih kilometrov nisva naredila, saj je bila pot zgolj po ravnem in po gozdu, sploh pa sva morala iti naslednji dan nazaj proti izhodišču, kjer je bil najin avto, tako da sva pot dejansko naredila dvakrat. Ob koncu dneva sva bila precej utrujena, a zelo zadovoljna, da nama je uspelo, predvsem pa, da sva doživela vse te lepote, ki so bile vredne truda, tako da je bila nekoliko nagla odločitev tistega večera v Mc'donaldsu še kako pravilna! ;)
 
 <div class="photoset-grid" data-layout="33133233323">
-    <img src="/assets/images/18routeburn/01.jpg" data-title="Osvežitev na poti, oziroma kako sva se zbudila. :)" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/02.jpg" data-title="Na poti je bilo veliko takšnih lesenih platform, ki so olajšale hojo po namočenih delih." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/03.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/04.jpg" data-title="'Lej Primož, k so mi brki zrastl!'" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/05.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/06.jpg" data-title="Postanek za kosilo ob jezeru Mackenzie." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/07.jpg" data-title="Povzpela sva se višje in imela jezero na dlani." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/08.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/09.jpg" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/01.jpg' | relative_url }}" data-title="Osvežitev na poti, oziroma kako sva se zbudila. :)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/02.jpg' | relative_url }}" data-title="Na poti je bilo veliko takšnih lesenih platform, ki so olajšale hojo po namočenih delih." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/03.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/04.jpg' | relative_url }}" data-title="'Lej Primož, k so mi brki zrastl!'" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/05.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/06.jpg' | relative_url }}" data-title="Postanek za kosilo ob jezeru Mackenzie." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/07.jpg' | relative_url }}" data-title="Povzpela sva se višje in imela jezero na dlani." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/08.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/09.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
 
-    <img src="/assets/images/18routeburn/10.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/11.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/12.jpg" data-title="Pogled na dolino Hollyforda." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/13.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/14.jpg" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/10.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/11.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/12.jpg' | relative_url }}" data-title="Pogled na dolino Hollyforda." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/13.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/14.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
     
-    <img src="/assets/images/18routeburn/16.jpg" data-title="Hodila sva ob obrobju jezera Harris in občudovala, kako se v njem lesketa sonce." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/17.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/18.jpg" data-title="Na tej točki pa moraš odriniti dve težki skali, da lahko nadaljuješ pot. Je bilo treba spiti malo Obelixovega napitka za moč! :D" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/19.jpg" data-title="Pogled na dolino, kamor sva še morala priti do najinega kampa." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/16.jpg' | relative_url }}" data-title="Hodila sva ob obrobju jezera Harris in občudovala, kako se v njem lesketa sonce." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/17.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/18.jpg' | relative_url }}" data-title="Na tej točki pa moraš odriniti dve težki skali, da lahko nadaljuješ pot. Je bilo treba spiti malo Obelixovega napitka za moč! :D" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/19.jpg' | relative_url }}" data-title="Pogled na dolino, kamor sva še morala priti do najinega kampa." data-lightbox="gr1">
     
-    <img src="/assets/images/18routeburn/20.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/21.jpg" data-title="Pri slapu so bile koče za tiste, ki so za udobje plačali malce več, a bila je zelo zanimiva, saj je stala na kolih med drevesi." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/22.jpg" data-title="Na poti sva prečkala tudi viseči most." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/23.jpg" data-title="Končno sva prišla do kampa, da sva se lahko odpočila do naslednjega dne." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/24.jpg" data-title="Primož je poskrbel za slastno večerjo, jaz pa sem postavila šotor, tako da sva bila ekstremno hitra." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/25.jpg" data-title="Oglasna tabla pri koči. Poseben poudarek je na spodnjem opozorilu! :D" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/26.jpg" data-title="Pri kočah sva se ponavadi okrepčala in si natočila vodo, da nisva rabila nositi zalog za celo pot. Tako je bilo zjutraj ob sončnem vzhodu." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/27.jpg" data-title="" data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/28.jpg" data-title="Primož potrebuje za razmik skale samo eno roko! :D " data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/29.jpg" data-title="Vzratni pogled na prehojeni del doline ..." data-lightbox="gr1">
-    <img src="/assets/images/18routeburn/30.jpg" data-title="Ker je bilo tako vroče, sem šla po malo osvežitve pod 174 m visok slap. Mokra sem bila precej v trenutku, ko sem se mu približala, sem se pa skoraj dotaknila mavrice. ;)" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/20.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/21.jpg' | relative_url }}" data-title="Pri slapu so bile koče za tiste, ki so za udobje plačali malce več, a bila je zelo zanimiva, saj je stala na kolih med drevesi." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/22.jpg' | relative_url }}" data-title="Na poti sva prečkala tudi viseči most." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/23.jpg' | relative_url }}" data-title="Končno sva prišla do kampa, da sva se lahko odpočila do naslednjega dne." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/24.jpg' | relative_url }}" data-title="Primož je poskrbel za slastno večerjo, jaz pa sem postavila šotor, tako da sva bila ekstremno hitra." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/25.jpg' | relative_url }}" data-title="Oglasna tabla pri koči. Poseben poudarek je na spodnjem opozorilu! :D" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/26.jpg' | relative_url }}" data-title="Pri kočah sva se ponavadi okrepčala in si natočila vodo, da nisva rabila nositi zalog za celo pot. Tako je bilo zjutraj ob sončnem vzhodu." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/27.jpg' | relative_url }}" data-title="" data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/28.jpg' | relative_url }}" data-title="Primož potrebuje za razmik skale samo eno roko! :D " data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/29.jpg' | relative_url }}" data-title="Vzratni pogled na prehojeni del doline ..." data-lightbox="gr1">
+    <img src="{{ '/assets/images/18routeburn/30.jpg' | relative_url }}" data-title="Ker je bilo tako vroče, sem šla po malo osvežitve pod 174 m visok slap. Mokra sem bila precej v trenutku, ko sem se mu približala, sem se pa skoraj dotaknila mavrice. ;)" data-lightbox="gr1">
 </div><br/>
